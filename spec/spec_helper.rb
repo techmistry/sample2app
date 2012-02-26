@@ -10,10 +10,10 @@ Spork.prefork do
 
 # end
 
-Spork.each_run do
+#Spork.each_run do
   # This code will be run each time you run your specs.
 
-end
+#end
 
 # --- Instructions ---
 # Sort the contents of this file into a Spork.prefork and a Spork.each_run
