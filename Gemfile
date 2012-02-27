@@ -19,7 +19,7 @@ group :test do
   gem 'spork', '1.0.0rc0'
   gem 'spork-rails'
   gem 'win32-process'
-  gem 'thin'
+  #gem 'thin'
   gem 'bundler'
   gem 'rake'
 end
