@@ -22,7 +22,7 @@ group :test do
   #gem 'thin'
   gem 'bundler'
   gem 'rake'
-  gem 'devise'
+  #gem 'devise'
 end
 
 
@@ -36,7 +36,7 @@ end
 
 # For Cloud Foundry
 gem 'cloudfoundry-jquery-rails'
-gem 'cloudfoundry-devise', :require => 'devise'
+#gem 'cloudfoundry-devise', :require => 'devise'
 
 gem 'jquery-rails'
 
