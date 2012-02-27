@@ -22,6 +22,7 @@ group :test do
   #gem 'thin'
   gem 'bundler'
   gem 'rake'
+  gem 'devise'
 end
 
 
